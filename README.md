@@ -25,19 +25,19 @@ If our business case is to find the fine property in san diego, feature importan
 
 ### Feature Transformation and Data enrichment
 
-1.The technique of changing your data while maintaining the knowledge is known as feature transformation. These changes will make it much easier to grasp Machine Learning methods, resulting in improved outcomes. In feature transformation we can merge two colums and create one column from it. 
-2.Lets say I have two columns one has Street Address and other has zipcodes simply, I can merge those two columns and create another column Full Address which will have street address and zip codes. Code snippet will be as follows
+1. The technique of changing your data while maintaining the knowledge is known as feature transformation. These changes will make it much easier to grasp Machine Learning methods, resulting in improved outcomes. In feature transformation we can merge two colums and create one column from it. 
+2. Lets say I have two columns one has Street Address and other has zipcodes simply, I can merge those two columns and create another column Full Address which will have street address and zip codes. Code snippet will be as follows
 
 ### Web Scraping
 
-1.Web scrapping helps to get the data from zillow which has data of properties. We can scrape the data either by tool or by coding. By doing so we can find walkscore, Crime rate, School Proximity etc and simply merge all the dataset for better visualization and better understansing of the dataset.
-2.Web scraping on Zillow centered on a location and postcode can provide information about each property such as rent, Zestimate, HOA, Mortgage, Expected payment, sold cost, percent rise in price in the last 12 months, and percent increase for the following year. 
-3.By introducing headers and reading only just few records at a time, we can fix the captcha and cookie issues. The first step in data enrichment was to combine it with the housing dataset. Following are the essential imports for Web Scrapping.
+1. Web scrapping helps to get the data from zillow which has data of properties. We can scrape the data either by tool or by coding. By doing so we can find walkscore, Crime rate, School Proximity etc and simply merge all the dataset for better visualization and better understansing of the dataset.
+2. Web scraping on Zillow centered on a location and postcode can provide information about each property such as rent, Zestimate, HOA, Mortgage, Expected payment, sold cost, percent rise in price in the last 12 months, and percent increase for the following year. 
+3. By introducing headers and reading only just few records at a time, we can fix the captcha and cookie issues. The first step in data enrichment was to combine it with the housing dataset. Following are the essential imports for Web Scrapping.
 
 ### Feature Engineering
 
-1.We can use Linear Regression to predict the house prices and along with that we can find a corelation between categories and draw a heatmap showing correlation between each columns.
-2.Linear regression model to predict a continuous scale variable to use a set of extracted features, whereas Logistic Regression is used to forecast a categorical variable. Regression issues are resolved using linear regression, while classification problems are solved using logistic regression.
-3.So basically logical and linear regression would help to define if particular property is best to buy by spliiting data in test and train.
+1. We can use Linear Regression to predict the house prices and along with that we can find a corelation between categories and draw a heatmap showing correlation between each columns.
+2. Linear regression model to predict a continuous scale variable to use a set of extracted features, whereas Logistic Regression is used to forecast a categorical variable. Regression issues are resolved using linear regression, while classification problems are solved using logistic regression.
+3. So basically logical and linear regression would help to define if particular property is best to buy by spliiting data in test and train.
 
 
