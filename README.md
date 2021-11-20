@@ -4,6 +4,7 @@
 ### TA: Tamanna Mehta, Devangi Doshi
 ### Presentation Video: https://drive.google.com/file/d/1cWGhmYbOOsUhZDO4Ou5rbWOFaEl3JtvN/view?usp=sharing
 ### Presentation Slides: https://docs.google.com/presentation/d/17ZX8kZje-dQUQ2G0Wna53GixhZbr0rNb/edit?usp=sharing&ouid=117008265698718757170&rtpof=true&sd=true
+### Medium Article: https://medium.com/@pranjalikotgire57/san-diago-real-estate-recommendation-3c0279be34b
 
 
 San Diego’s housing market, like the rest of California, is seeing an increase in housing prices and sales. For 11 months in a row, the median home value in Southern California has grown by the double digits. Homes on the market are selling quickly, with numerous offers frequently exceeding the sellers’ asking price. In 2021, buyer desire is likely to continue strong, but rising mortgage interest rates will put a strain upon that.
