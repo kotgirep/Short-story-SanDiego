@@ -31,4 +31,8 @@ The technique of changing your data while maintaining the knowledge is known as 
 
 Web scrapping helps to get the data from zillow which has data of properties. We can scrape the data either by tool or by coding. By doing so we can find walkscore, Crime rate, School Proximity etc and simply merge all the dataset for better visualization and better understansing of the dataset.Web scraping on Zillow centered on a location and postcode can provide information about each property such as rent, Zestimate, HOA, Mortgage, Expected payment, sold cost, percent rise in price in the last 12 months, and percent increase for the following year. By introducing headers and reading only just few records at a time, we can fix the captcha and cookie issues. The first step in data enrichment was to combine it with the housing dataset. Following are the essential imports for Web Scrapping.
 
+### Feature Engineering
+
+We can use Linear Regression to predict the house prices and along with that we can find a corelation between categories and draw a heatmap showing correlation between each columns
+
 
