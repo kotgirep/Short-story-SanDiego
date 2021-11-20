@@ -20,3 +20,5 @@ Make use of internet appraisal tools. “How much is my house worth?” is a que
 3.Engage the services of a competent appraiser
 
 4.Compare and contrast equivalent real estate
+
+If our business case is to find the fine property in san diego, feature importance is best which helps to find best features for the business case.We may employ the latent variables of walk score, crime rate, and school proximity rank in fractal clustering and prediction to improve the model’s accuracy. Clustering algorithms could help to get to know property distribution by zip code.Moreover you can analyze if the property price is high then what is the walkscore of the real estate in addition to this, you can identify if the crimerate is less in that particular area etc.
