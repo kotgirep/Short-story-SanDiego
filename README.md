@@ -33,6 +33,6 @@ Web scrapping helps to get the data from zillow which has data of properties. We
 
 ### Feature Engineering
 
-We can use Linear Regression to predict the house prices and along with that we can find a corelation between categories and draw a heatmap showing correlation between each columns
+We can use Linear Regression to predict the house prices and along with that we can find a corelation between categories and draw a heatmap showing correlation between each columns.Linear regression model to predict a continuous scale variable to use a set of extracted features, whereas Logistic Regression is used to forecast a categorical variable. Regression issues are resolved using linear regression, while classification problems are solved using logistic regression. So basically logical and linear regression would help to define if particular property is best to buy by spliiting data in test and train.
 
 
