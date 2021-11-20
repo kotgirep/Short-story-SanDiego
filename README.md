@@ -1,4 +1,4 @@
-# Short-story-SanDiego
+# Short Story San Diego Recommendation
 ### Course: CMPE255-Data Mining
 ### Professor: Vijay Eranti
 ### TA: Tamanna Mehta, Devangi Doshi
