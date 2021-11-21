@@ -28,6 +28,10 @@ Make use of internet appraisal tools. “How much is my house worth?” is a que
 
 If our business case is to find the fine property in san diego, feature importance is best which helps to find best features for the business case.We may employ the latent variables of walk score, crime rate, and school proximity rank in fractal clustering and prediction to improve the model’s accuracy. Clustering algorithms could help to get to know property distribution by zip code.Moreover you can analyze if the property price is high then what is the walkscore of the real estate in addition to this, you can identify if the crimerate is less in that particular area etc.
 
+### Explotary Data Analysis
+
+Before we start training machine learning models, we’d like to learn more about the data we have. It would be particularly fascinating to see how different variables influence the price of the real estate model, in order to assess their potential as predictors. For continuous variables, the Pearson correlation coefficient is used, and for binary variables, the point biserial correlation coefficient is used.
+
 ### Feature Transformation and Data enrichment
 
 1. The technique of changing your data while maintaining the knowledge is known as feature transformation. These changes will make it much easier to grasp Machine Learning methods, resulting in improved outcomes. In feature transformation we can merge two colums and create one column from it. 
