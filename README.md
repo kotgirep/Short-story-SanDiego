@@ -19,13 +19,13 @@ When purchasing a home, we evaluate factors such as the size of the property, th
 ### Now the question is how should buyer select or consider such options?
 
 Make use of internet appraisal tools. “How much is my house worth?” is a question that many people ask. There are numerous of house value estimators available online.
-1.Obtain a market comparison analysis
+1. Obtain a market comparison analysis
 
-2.Use the FHFA Property Price Indices Analyzer to figure out how much your. home is worth
+2. Use the FHFA Property Price Indices Analyzer to figure out how much your. home is worth
 
-3.Engage the services of a competent appraiser
+3. Engage the services of a competent appraiser
 
-4.Compare and contrast equivalent real estate
+4. Compare and contrast equivalent real estate
 
 If our business case is to find the fine property in san diego, feature importance is best which helps to find best features for the business case.We may employ the latent variables of walk score, crime rate, and school proximity rank in fractal clustering and prediction to improve the model’s accuracy. Clustering algorithms could help to get to know property distribution by zip code.Moreover you can analyze if the property price is high then what is the walkscore of the real estate in addition to this, you can identify if the crimerate is less in that particular area etc.
 
