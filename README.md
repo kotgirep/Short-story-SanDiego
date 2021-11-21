@@ -8,6 +8,8 @@
 
 ### Medium Article: https://medium.com/@pranjalikotgire57/san-diago-real-estate-recommendation-3c0279be34b
 
+### Data Resources: http://www.zillow.com/homes , https://www.propertyshark.com/mason/Street-Index/CA/San-Diego-County/
+
 
 San Diego’s housing market, like the rest of California, is seeing an increase in housing prices and sales. For 11 months in a row, the median home value in Southern California has grown by the double digits. Homes on the market are selling quickly, with numerous offers frequently exceeding the sellers’ asking price. In 2021, buyer desire is likely to continue strong, but rising mortgage interest rates will put a strain upon that.
 
