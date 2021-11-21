@@ -3,7 +3,9 @@
 ### Professor: Vijay Eranti
 ### TA: Tamanna Mehta, Devangi Doshi
 ### Presentation Video: https://drive.google.com/file/d/1cWGhmYbOOsUhZDO4Ou5rbWOFaEl3JtvN/view?usp=sharing
+
 ### Presentation Slides: https://docs.google.com/presentation/d/17ZX8kZje-dQUQ2G0Wna53GixhZbr0rNb/edit?usp=sharing&ouid=117008265698718757170&rtpof=true&sd=true
+
 ### Medium Article: https://medium.com/@pranjalikotgire57/san-diago-real-estate-recommendation-3c0279be34b
 
 
