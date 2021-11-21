@@ -1,4 +1,5 @@
 # Short Story San Diego Recommendation
+### Student Name: Pranjali Kotgire
 ### Course: CMPE255-Data Mining
 ### Professor: Vijay Eranti
 ### TA: Tamanna Mehta, Devangi Doshi
